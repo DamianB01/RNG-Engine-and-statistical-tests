@@ -56,17 +56,19 @@ Implemented using `std::mt19937`.
 ## 📈 Example Results (seed = 12345)
 
 ### 🔵 LCG
-⏱️ Time: 0.0089s  
-📦 Chi-square: 16.02  
-📉 KS test: 0.000944  
-🔗 Serial correlation: 0.00115  
+⏱️ Time: 0.0100159s  
+📦 Chi-square: 16.0227  
+📉 KS test: 0.000944117  
+🔗 Serial correlation: 0.00115189  
 
 ### 🟣 MT19937
 
-⏱️ Time: 0.0311s  
-📦 Chi-square: 7.06  
-📉 KS test: 0.000513  
-🔗 Serial correlation: 0.000260  
+⏱️ Time: 0.0350324s  
+📦 Chi-square: 7.06494  
+📉 KS test: 0.000513121  
+🔗 Serial correlation: 0.000229851  
+
+<img width="1026" height="736" alt="image" src="https://github.com/user-attachments/assets/6be88a8d-34ac-4b62-899a-a5ce75f202f4" />
 
 ---
 
