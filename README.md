@@ -56,10 +56,10 @@ Implemented using `std::mt19937`.
 ## 📈 Example Results (seed = 12345)
 
 ### 🔵 LCG
-⏱️ Time: 0.0089s
-📦 Chi-square: 16.02
-📉 KS test: 0.000944
-🔗 Serial correlation: 0.00115
+⏱️ Time: 0.0089s  
+📦 Chi-square: 16.02  
+📉 KS test: 0.000944  
+🔗 Serial correlation: 0.00115  
 
 ### 🟣 MT19937
 
