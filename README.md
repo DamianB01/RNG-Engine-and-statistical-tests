@@ -91,16 +91,16 @@ This ensures:
 
 ---
 
-💾 Output Files
+## 💾 Output Files
 
 After execution:
 
-LCG_data.csv  
-MT19937_data.csv
+`LCG_data.csv`  
+`MT19937_data.csv`
 
 ---
 
-📊 Visualization (Optional):
+## 📊 Visualization (Optional):
 
 Run plots:
-*python plot.py*
+`python plot.py`
