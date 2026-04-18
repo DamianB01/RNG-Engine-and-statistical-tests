@@ -5,11 +5,11 @@ A high-performance C++ benchmark that generates **1,000,000 pseudorandom numbers
 ---
 
 ## 📁 Project Structure
-├── 🧠 main.cpp              # entry point, benchmark
-├── 🎰 rng.h / rng.cpp       # LCG and MT19937 implementations
-├── 📊 stats.h / stats.cpp   # statistical tests + histogram
-├── 💾 csv.h / csv.cpp       # CSV export utilities
-└── 📈 plot.py               # Python visualization (matplotlib)
+├── 🧠 main.cpp              # entry point, benchmark  
+├── 🎰 rng.h / rng.cpp       # LCG and MT19937 implementations  
+├── 📊 stats.h / stats.cpp   # statistical tests + histogram  
+├── 💾 csv.h / csv.cpp       # CSV export utilities  
+└── 📈 plot.py               # Python visualization (matplotlib)  
 
 ---
 
@@ -93,7 +93,7 @@ This ensures:
 
 After execution:
 
-LCG_data.csv
+LCG_data.csv  
 MT19937_data.csv
 
 ---
