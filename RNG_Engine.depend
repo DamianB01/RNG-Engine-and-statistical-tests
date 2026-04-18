@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1776536576 source:c:\users\damian\documents\projektycpp\rng_engine\main.cpp
+	<iostream>
+	<vector>
+	<chrono>
+	"rng.h"
+	"stats.h"
+	"csv.h"
+
+1776536576 source:c:\users\damian\documents\projektycpp\rng_engine\rng.cpp
+	"rng.h"
+
+1776536576 c:\users\damian\documents\projektycpp\rng_engine\rng.h
+	<random>
+	<cstdint>
+
+1776535867 source:c:\users\damian\documents\projektycpp\rng_engine\stats.cpp
+	"stats.h"
+	<cmath>
+	<iostream>
+	<algorithm>
+
+1776529259 c:\users\damian\documents\projektycpp\rng_engine\stats.h
+	<vector>
+
+1776534301 source:c:\users\damian\documents\projektycpp\rng_engine\csv.cpp
+	"csv.h"
+	<fstream>
+	<iostream>
+
+1776529259 c:\users\damian\documents\projektycpp\rng_engine\csv.h
+	<vector>
+	<string>
+

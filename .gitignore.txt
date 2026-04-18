@@ -1,0 +1,6 @@
+*.exe
+*.o
+*.csv
+RNG_Engine
+.vscode/
+__pycache__/
