@@ -47,9 +47,9 @@ Implemented using `std::mt19937`.
 
 ## 📊 Statistical Tests
 
-📦 Chi-square - Uniformity across bins
-📉 Kolmogorov–Smirnov - Deviation from U(0,1)
-🔗 Serial correlation - Dependency between values
+📦 Chi-square - Uniformity across bins  
+📉 Kolmogorov–Smirnov - Deviation from U(0,1)  
+🔗 Serial correlation - Dependency between values  
 
 ---
 
@@ -63,17 +63,17 @@ Implemented using `std::mt19937`.
 
 ### 🟣 MT19937
 
-⏱️ Time: 0.0311s
-📦 Chi-square: 7.06
-📉 KS test: 0.000513
-🔗 Serial correlation: 0.000260
+⏱️ Time: 0.0311s  
+📦 Chi-square: 7.06  
+📉 KS test: 0.000513  
+🔗 Serial correlation: 0.000260  
 
 ---
 
 ## 🏆 Conclusion
 
 - 🟣 **MT19937** → better statistical quality  
-- 🔵 **LCG** → much faster (~3.5× speed advantage)  
+- 🔵 **LCG** → much faster (~3.5× speed advantage)    
 - ⚖️ Trade-off between speed and randomness quality  
 
 ---
